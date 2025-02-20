@@ -92,9 +92,9 @@ _You must install the following Python version (or later) to run the notebook._
 
 _Below is an example of how/where you can download and install the required software to execute the notebook._
 
-1. **Git**: Download and istall Git from git-scm.com
+1. **Git**: Download and istall Git from [git-scm.com](https://git-scm.com)
 
-2. **Python & Jupyter Notebook**: It is easiest to install Anaconda (which includes Python and Jupyter Notebook) from anaconda.com. Alternatively, install Python from python.org and then run:
+2. **Python & Jupyter Notebook**: It is easiest to install Anaconda (which includes Python and Jupyter Notebook) from [anaconda.com](https://anaconda,com). Alternatively, install Python from python.org and then run:
 	```sh
 	pip install jupyter
 	```
