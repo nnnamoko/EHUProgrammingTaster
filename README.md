@@ -6,7 +6,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![GNU][GNU-shield]][GNU-url]
+[![GNU][license-shield]][license-url]
 
     <a href="https://github.com/nnnamoko/EHUProgrammingTaster/issues">Report Bugs here</a>
   </p>
