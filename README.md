@@ -8,6 +8,7 @@
 [![Issues][issues-shield]][issues-url]
 [![GNU][license-shield]][license-url]
 
+<p align="left">
     <a href="https://github.com/nnnamoko/EHUProgrammingTaster/issues">Report Bugs here</a>
   </p>
 
@@ -36,8 +37,8 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
-		<li><a href="#clone">Clone this Repository using Git Bash</a></li>
-		<li><a href="#run">Run the Jupyter Notebook</a></li>
+	<li><a href="#clone">Clone this Repository using Git Bash</a></li>
+	<li><a href="#run">Run the Jupyter Notebook</a></li>
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
