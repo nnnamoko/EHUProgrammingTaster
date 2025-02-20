@@ -201,7 +201,7 @@ e-mail: nnamokon@edgehill.ac.uk
 [Twitter-shield]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [Twitter-url]: https://twitter.com/nonsonnamoko
 
-[Python]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=yellow
+[Python]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white
 [Python-url]: https://python.org/
 
 
