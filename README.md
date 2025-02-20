@@ -101,7 +101,7 @@ _Below is an example of how/where you can download and install the required soft
 	
 ### Clone this Repository using Git Bash
 
--Below is an example of how you can clone this Repository._
+_Below is an example of how you can clone this Repository._
 
 1. **Open Git Bash**: On Windows, search for Git Bash in the Start Menu, or right-click in your desired folder and select "Git Bash Here".
 
@@ -124,7 +124,7 @@ _Below is an example of how/where you can download and install the required soft
 
 ### Run the Jupyter Notebook
 
--Below is an example of how you can run the notebook after cloning._
+_Below is an example of how you can run the notebook after cloning._
 
 1. **Launch Jupyter Notebook**: In Git Bash, while inside the local directory, run the code below:
 	```sh
